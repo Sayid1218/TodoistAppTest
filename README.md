@@ -6,3 +6,5 @@ Used Technology:
 * Maven
 * Appium Server
 * Android Emuletor
+
+Report : https://github.com/Sayid1218/TodoistAppTest/blob/main/reports/Report.html
