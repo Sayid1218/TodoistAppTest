@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-16T14:23:36Z" name="Default suite" finished-at="2023-10-16T14:25:54Z" duration-ms="138348">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T14:23:36Z" name="Default test" finished-at="2023-10-16T14:25:54Z" duration-ms="138348">
+      <class name="TodoistApp.driver.TodoistAppTest">
+        <test-method is-config="true" signature="Start()[pri:0, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:23:00Z" name="Start" finished-at="2023-10-16T20:23:36Z" duration-ms="36032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method is-config="true" signature="TodoistAppTestReport()[pri:0, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:23:36Z" name="TodoistAppTestReport" finished-at="2023-10-16T20:23:37Z" duration-ms="1308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TodoistAppTestReport -->
+        <test-method signature="LogIn()[pri:-1, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:23:37Z" name="LogIn" finished-at="2023-10-16T20:24:16Z" duration-ms="38581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method signature="AddTaskButton()[pri:1, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:16Z" name="AddTaskButton" finished-at="2023-10-16T20:24:22Z" duration-ms="5595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTaskButton -->
+        <test-method signature="TaskNameField()[pri:3, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:22Z" name="TaskNameField" finished-at="2023-10-16T20:24:24Z" duration-ms="2740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskNameField -->
+        <test-method signature="TaskDescriptionField()[pri:4, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:24Z" name="TaskDescriptionField" finished-at="2023-10-16T20:24:28Z" duration-ms="3407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskDescriptionField -->
+        <test-method signature="SelectDateButton()[pri:5, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:28Z" name="SelectDateButton" finished-at="2023-10-16T20:24:31Z" duration-ms="3226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDateButton -->
+        <test-method signature="TumorrowButton()[pri:6, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:31Z" name="TumorrowButton" finished-at="2023-10-16T20:24:35Z" duration-ms="4330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TumorrowButton -->
+        <test-method signature="PriorityButton()[pri:7, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:35Z" name="PriorityButton" finished-at="2023-10-16T20:24:40Z" duration-ms="4498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PriorityButton -->
+        <test-method signature="AddButton()[pri:8, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:40Z" name="AddButton" finished-at="2023-10-16T20:24:42Z" duration-ms="2323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddButton -->
+        <test-method signature="InboxButton()[pri:9, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:42Z" name="InboxButton" finished-at="2023-10-16T20:24:52Z" duration-ms="9807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InboxButton -->
+        <test-method signature="ThreeDotButton()[pri:10, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:52Z" name="ThreeDotButton" finished-at="2023-10-16T20:24:59Z" duration-ms="6749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThreeDotButton -->
+        <test-method signature="DuplicateTask()[pri:11, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:24:59Z" name="DuplicateTask" finished-at="2023-10-16T20:25:04Z" duration-ms="5171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DuplicateTask -->
+        <test-method signature="CompleteTask()[pri:12, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:04Z" name="CompleteTask" finished-at="2023-10-16T20:25:11Z" duration-ms="7011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteTask -->
+        <test-method signature="ThreeDotManuHome()[pri:13, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:11Z" name="ThreeDotManuHome" finished-at="2023-10-16T20:25:15Z" duration-ms="3838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThreeDotManuHome -->
+        <test-method signature="ActivityLog()[pri:14, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:15Z" name="ActivityLog" finished-at="2023-10-16T20:25:22Z" duration-ms="7140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActivityLog -->
+        <test-method signature="BackButton()[pri:15, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:22Z" name="BackButton" finished-at="2023-10-16T20:25:26Z" duration-ms="4204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackButton -->
+        <test-method signature="SearchBtn()[pri:16, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:26Z" name="SearchBtn" finished-at="2023-10-16T20:25:31Z" duration-ms="5210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBtn -->
+        <test-method signature="TodayBtn()[pri:17, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:31Z" name="TodayBtn" finished-at="2023-10-16T20:25:38Z" duration-ms="6908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TodayBtn -->
+        <test-method signature="NotificationButton()[pri:18, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:38Z" name="NotificationButton" finished-at="2023-10-16T20:25:41Z" duration-ms="3256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NotificationButton -->
+        <test-method signature="UnreadButton()[pri:19, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:41Z" name="UnreadButton" finished-at="2023-10-16T20:25:46Z" duration-ms="4334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnreadButton -->
+        <test-method signature="NotificationBackButton()[pri:20, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:46Z" name="NotificationBackButton" finished-at="2023-10-16T20:25:50Z" duration-ms="4435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NotificationBackButton -->
+        <test-method signature="Profile()[pri:21, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:50Z" name="Profile" finished-at="2023-10-16T20:25:52Z" duration-ms="2206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Profile -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:52Z" name="afterClass" finished-at="2023-10-16T20:25:54Z" duration-ms="1972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:TodoistApp.driver.TodoistAppTest@51fadaff]" started-at="2023-10-16T20:25:55Z" name="Close" finished-at="2023-10-16T20:25:57Z" duration-ms="1938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- TodoistApp.driver.TodoistAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
